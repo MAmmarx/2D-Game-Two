@@ -1,7 +1,7 @@
 # 2D-Game-Two
 This Project was made in Programming One in 1st Year of university By myself and its a Second 2D game made using c++ without any libraries just simple c++ coding.
 
-# The Game Information:
+# Game Information:
 This game has 3 levels each level having its own diffictulty and challenges 
 1st level is about dodging the obstacles and doing parkour to find the key to open the door for next level.
 2nd level is about obtaining a gun and shoot the enemies to be able to use the elevator to reach level 3 using single bullets.
